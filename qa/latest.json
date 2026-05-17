@@ -1,8 +1,8 @@
 {
   "env": "qa",
-  "version": "1.0.39",
-  "url": "https://github.com/TheShipu/OTA-test/releases/download/qa-v1.0.39/bundle-qa-1.0.39.zip",
-  "checksum": "654d6d40a7d3c96cdd82520c8d5d631f62b2291c3831940d7dd69d1b70245cd4",
-  "notes": "First OTA test - green banner",
-  "generatedAt": "2026-05-16T11:58:11.157Z"
+  "version": "1.0.40",
+  "url": "https://github.com/TheShipu/OTA-test/releases/download/qa-v1.0.40/bundle-qa-1.0.40.zip",
+  "checksum": "a8581abb18d7c51324e3363eec57b44c0283fc9d65c78bb14f60d193d3cec437",
+  "notes": "Add OTA debug banner",
+  "generatedAt": "2026-05-17T19:55:11.395Z"
 }
